@@ -1,7 +1,1 @@
-K8S基础知识
-## K8S组件
-### Master 组件
-1.  kube-apiserver 服务请求统一访问入口。
-2.  etcd 存储K8S 整个集群信息（键值对存储）。
-3.  kube-controller-manager 管理pod和运行各种控制器。
-4.  kube-scheduler pod调度器，为新建的pod分配合适的node。
+
